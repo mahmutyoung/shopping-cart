@@ -1,5 +1,5 @@
-import FilterableProductTable from "../ProductList/FilterableProductTable";
-import Cart from "../Cart/Cart";
+import FilterableProductTable from "../src/ProductList/FilterableProductTable";
+import Cart from "../src/Cart/Cart";
 import { useState } from "react";
 
 const PRODUCTS = [
